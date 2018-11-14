@@ -1,6 +1,6 @@
-# 3 Day after the python
+# Basic Python Programing.
 
-Basic Python Programing.
+3 Day after the Python
 
 ## Day 1
 
